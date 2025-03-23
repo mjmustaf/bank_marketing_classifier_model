@@ -7,7 +7,7 @@ This repository contains a Jupyter Notebook that compares the performance of sev
 
 ## 🔗 Jupyter Notebook
 
-`bank_marketing_classifier_comparison.ipynb`
+[bank_marketing_classifier_comparison.ipynb]
 
 ---
 

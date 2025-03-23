@@ -1,5 +1,5 @@
 
-# Bank Marketing Classifier Comparison – README
+# Bank Marketing Classifier Comparison
 
 This repository contains a Jupyter Notebook that compares the performance of several machine learning classifiers using a dataset related to the marketing of term deposit products by a Portuguese bank. The project focuses on building, evaluating, and improving classification models to predict whether a customer will subscribe to a term deposit.
 
@@ -7,7 +7,7 @@ This repository contains a Jupyter Notebook that compares the performance of sev
 
 ## 🔗 Jupyter Notebook
 
-You can find the full notebook here: `bank_marketing_classifier_comparison.ipynb`
+`bank_marketing_classifier_comparison.ipynb`
 
 ---
 
